@@ -1,10 +1,17 @@
-## Hi there 👋
+👋 About Me
+Hi there! I’m a Systems Analysis student passionate about solving problems through technology and learning something new every day. My current focus is on improving my skills in Object-Oriented Programming, Data Structures, and developing efficient, scalable systems.
 
-<!--
-**renatofarache/renatofarache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 What I Do
+💻 Study software development and programming best practices.
+📖 Always seeking new challenges and continuous learning in the tech world.
+🛠️ Exploring projects involving logic, system design, and innovation.
+🌱 Currently Learning
+Object-Oriented Programming (OOP)
+Data Structures
+Best practices for version control with Git and GitHub.
+📫 Get in Touch
+📧 Email: renatofarache@gmail.com  
+🌐 Portfolio: linkedin.com/in/renafarache/
 
-🎓 Systems Analysis Student | 
-💻 Passionate about technology, software development, and innovation.
-📚 Exploring concepts of programming, system design, and development best practices.
-🌱 Currently learning Object-Oriented Programming and Data Structures.
-🔗 Always looking for new challenges and opportunities to grow in the tech world.
+💡 Fun Facts
+When I’m not coding, I enjoy exploring new technologies, watching content about personal development, or listening to great music! 🎧
